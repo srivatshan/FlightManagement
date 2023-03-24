@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test login page 1`] = `
+<div>
+  <br />
+  <br />
+  <br />
+  <br />
+  <div
+    className="auth-wrapper"
+    style={
+      Object {
+        "position": "fixed",
+      }
+    }
+  >
+    <div
+      className="auth-inner"
+    >
+      <form
+        onSubmit={[Function]}
+      >
+        <h3>
+          Sign In
+        </h3>
+        <div
+          className="form-group"
+        >
+          <label>
+            Username
+          </label>
+          <input
+            className="form-control"
+            name="userName"
+            onChange={[Function]}
+            placeholder="UserName"
+            type="text"
+            value=""
+          />
+        </div>
+        <div
+          className="form-group"
+        >
+          <label>
+            Password
+          </label>
+          <input
+            className="form-control"
+            name="password"
+            onChange={[Function]}
+            placeholder="Enter password"
+            type="password"
+            value=""
+          />
+        </div>
+        <button
+          className="btn btn-primary btn-block"
+          type="submit"
+        >
+          Submit
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+`;

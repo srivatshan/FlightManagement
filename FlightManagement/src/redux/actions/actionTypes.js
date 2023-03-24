@@ -1,0 +1,2 @@
+export const CREATE_COURSE = "CREATE_COURSE";
+export const LOAD_FLIGHTS_SUCCESS = "LOAD_FLIGHTS";
